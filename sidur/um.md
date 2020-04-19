@@ -1,0 +1,1 @@
+Hér er linkur á ferilskránna af gömlu heimasíðu minni: https://notendur.hi.is/jrj11/HTML/#about
