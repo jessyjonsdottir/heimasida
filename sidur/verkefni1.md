@@ -1,4 +1,4 @@
-# Verkefni 1 
+## Verkefni 1 
 [Hér](https://notendur.hi.is/jrj11/HTML/Undir/verkefni1.html) má sjá hvernig ég gerði upphaflegu síðuna. Hún krafðist of mikils viðhald og gekk það nánast af mér dauðri að setja upp texta á skiljanlegan máta. Það var hrikalegt að ætla að formatta hann eða lagfæra línubil og annað. Því fór ég og bjó mér til nýja síðu til að sjá fyrir endann á því að setja inn ný verkefni.
 
 Ég fór núna í gegnum github. Ég sótti simple site og setti upp git á tölvunni og keyrði git init í möppu þar sem ég ætlaði að geyma síðuna. Svo uppfærði ég bootstrap úr 2.x í 4.1, nýjustu útgáfuna. Þá gat ég breytt útliti síðunnar og aðlagað að nútímanum, notaði [þessar](https://getbootstrap.com/docs/4.4/components/navbar/?fbclid=IwAR1m_pv6toy-r2buBr3-2g1FZC049L4-fiC2T44lzRxFo5-zuADO6qhH89E#color-schemes) leiðbeiningar til að uppfæra útlit. Ég sótti líka extentions, Markdown preview og Markdown toolbar. 

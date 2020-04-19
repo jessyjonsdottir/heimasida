@@ -1,3 +1,4 @@
+## Verkefni 2: Leiserskurður
 Hugmyndavinna:
 Fyrst langaði mig að gera kertastjaka þá helst eitthvað tengt Harry Potter eða þá sérstaklega dauðadjásnunum. 
  

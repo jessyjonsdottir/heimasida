@@ -1,5 +1,5 @@
-Lokaverkefni
-### Lokaverkefni: topptjald - Tindaból 
+
+## Lokaverkefni: topptjald - Tindaból 
 
 Við ákváðum að gera lokaverkefni sem myndi nýtast hópmeðlimum vel. Varð því topptjald fyrir valinu þar sem slíkt kostar um 400.000 þúsund plús keypt. 
 Hér má sjá heimasíðu verkefnisins: https://sites.google.com/view/tindabol/heim?authuser=1.
