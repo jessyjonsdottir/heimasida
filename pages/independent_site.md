@@ -130,8 +130,8 @@ free to just delete the tagline.
 
     ---
     layout: page
-    title: simple site
-    tagline: Easy websites with GitHub Pages
+    title: Vefsíða Jessýjar
+    tagline: Verkefni í áfanganum framleiðsluferli
     ---
 
 Now edit the rest (or, for now, just remove) the rest of the file.
