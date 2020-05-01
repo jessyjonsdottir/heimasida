@@ -24,7 +24,9 @@ Hérna má sjá teikningu af hliðinni:
 
 ![](../myndir/standur/hlið.png)
 
-Ég gerði líka öll horn rúnnuð með filleti til að gefa þessu fallegri ásýnd.
+Hliðin er bogadregin undir svo snertiflöturinn sé ekki öll hliðin, heldur bara tveir litlir sitt hvoru meginn við endann. Þannig vaggar hún ekki ef undirlagið er ekki slétt. Sama með að ofan, þar er tölvan látin sitja á tveimur endum svo hún sé ekki völt á hliðunum. Ég ákvað líka að nota breiddina á milli gúmmísins sem er undir tölvunni til að leyfa standinum að þrýstast við þau. Ég hugsa ég myndi setja svona litla púða eins og er sett undir borð til að þau rispi ekki gólf, þá mun tölvan sitja þægilega á snertifleti standsins, alveg þétt við. 
+
+Ég gerði líka öll horn rúnnuð með filleti til að gefa þessu fallegri ásýnd. Þetta sýnir líka "nafið" sem mun halda tölvunni á sínum stað þar sem það er halli. 
 
 ![](../myndir/standur/fillet.png)
 
