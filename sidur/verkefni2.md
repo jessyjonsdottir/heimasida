@@ -4,7 +4,7 @@ Hugmyndavinna:
  
 ![](../myndir/standur/snab.jpg)
  
-Jæja. Þá voru góð ráð dýr! Ég fór að hugsa hvað mig langaði að gera sem er raunverulega parametrískt. Ívar vinur minn hafði nýverið gert tölvustand. Ég áttaði mig því á að mig vantaði slíkan líka. Ég er með aukaskjá til að vinna að heiman, hann er mjög stór og miklu hærri en fartölvan mín svo tölvuskjárinn á fartölvunni nýttist síður því ég forðaðist að nota hann. Ef ég notaði þá samtímis þurfti ég alltaf að færa höfuðið töluvert til því skjáirnir voru ansi langt frá því að vera í svipaðri augnhæð. 
+Jæja. Þá voru góð ráð dýr! Ég fór að hugsa hvað mig langaði að gera sem er raunverulega parametrískt. Ívar vinur minn hafði nýverið gert tölvustand. Ég áttaði mig því á að mig vantaði slíkan líka. Ég er með aukaskjá til að vinna að heiman, hann er mjög stór og miklu hærri en fartölvan mín svo tölvuskjárinn á fartölvunni nýttist síður því ég forðaðist að nota hann. Ef ég notaði þá samtímis þurfti ég alltaf að færa höfuðið töluvert til því skjáirnir voru ansi langt frá því að vera í svipaðri augnhæð. Ég vildi því hafa styttri hluta standsins 9 cm og lengri (að aftan) 15 cm. 
 
 Ég vildi því gera undir tölvuna. Gríðarlega hentugt var líka að gera slíkt parametrískt þar sem ég er með augun á nýjum tölvum og er með aðra vinnutölvu. Tilvalið í gjafir fyrir vini og vandamenn - sérsniðin lausn, þarf bara mál á tölvu viðkomandi. 
 
