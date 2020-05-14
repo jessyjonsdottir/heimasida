@@ -37,3 +37,11 @@ Hér má sjá mynd af þverstífunni:
 Ég beitti mirror þar til að gera hægri hliðina. Gríðarlega nytsamlegt tól. 
  
 Tími sem fór í verkefnið var annars vegar Snabba-hlutinn: 4,5 klst, svo standur: 7 klst og setja inn á síðu 1,5 klst. Í það heila 13 klst. Það reyndar er þá ekki tekið með þeir 3 tímar sem fór í að reyna að láta Smyrils-leiserskerann virka.  
+
+Mér tókst ekki að leiserskera sjálfan standinn, heldur einungis hanna hann. Það var minna vegna tímaskorts hjá mér og meira vegna Covid. Ég get þó tekið svolitla sök á mig þar sem ég dróg það of lengi að fara upp í fab lab og leiserskera nýjan stand, en aftur á móti var ekki fyrir séð að Covid myndi breyta svo mörgu í gangi þjóðfélagsins. 
+Aftur á móti leiser-skar ég Snabba. Svo ég framkvæmdi báða þætti verkefnisins, bara ekki í einu lagi :-). 
+
+Hér er listi með myndböndum sem ég horfði til að leita mér þekkingar þegar ég vann verkefnið:
+- https://www.youtube.com/watch?v=ZYj37I88-4g
+- https://www.youtube.com/watch?v=vT_FH3lL-3A
+- https://www.youtube.com/watch?v=2MfYN7sUF7w

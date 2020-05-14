@@ -6,3 +6,5 @@
 Helstu vankantar fyrri síðunnar var að textabrotið studdi sig of mikið við CSS svo það var svo gríðarlega erfitt að koma honum fallega frá sér. Aftur á móti er markdown töluvert þægilegra í notkun og líður mér hálf partinn eins og ég sé að skrifa texta í word, sérstaklega í ljósi þess að ég get fylgst jafn óðum með því hvernig hann mun koma út á síðunni með preview.
 
 Það tók um 3 og hálfa klukkustund að setja upp nýja síðu. Kjartan, vinur minn, mælti með þessari útfærslu þegar ég sagði honum frá raunum mínum með síðuna mína og gat leiðbeint mér þegar ég lenti á veggjum. 
+
+Þessi síða er "static" og því einfaldari en þessi sem var eldri. Það var mikill lærdómur að prófa að setja upp tvær síður sem voru ólíkar. Í gömlu vefsíðunni setti ég hana upp í server HÍ en ekki í gegnum github og því gott að hafa gert hvoru tveggja, en þessi er unnin í gegnum brackets og Github.

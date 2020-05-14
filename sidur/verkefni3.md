@@ -93,4 +93,11 @@ Downloadaði Cura Ultimaker. Verkið er 4g og tekur um klst að prenta.
 
 ![](../myndir/a17.png)
  
+Staðan er sú núna að ég hef ekki 3D prentað lyklakippuna en ég sé fyrir mér að gera það jafnvel í sumar í vinnunni eða í fablab eftir því sem ég hef tíma í. Mig langar að gefa góðvinkonu minni það í gjöf þar sem hún er forfallinn Harry Potter aðdáandi. Þetta tók lítinn tíma og opnast margar dyr við sérsniðnar gjafir. Ekki alls kosta ólíklegt að ég fjárfesti í einhvers konar 3d prentara. Ég las mér til um mismunandi tegundir 3d prentara í eftirfarandi grein: https://3dinsider.com/3d-printer-types/.
+
 Tími sem fór í þennan hluta verkefnisins 1,5 klst.
+
+Hér er listi með þeim myndböndum sem ég horfði á:
+- https://www.youtube.com/watch?v=NypRE2aFhh4&t=90s (þegar ég vann í Snabba)
+- https://www.youtube.com/watch?v=IbisZCACE9o&t=72s
+- https://www.youtube.com/watch?v=A5bc9c3S12g
